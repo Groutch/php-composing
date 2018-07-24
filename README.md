@@ -1,2 +1,2 @@
 # php-composing
-https://groutch.github.io/php-composing/
+https://groutch-composing.herokuapp.com
